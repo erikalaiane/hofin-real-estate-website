@@ -1,11 +1,11 @@
-import Hero from './components/Hero.jsx'
-import About from './components/About.jsx'
-import PropertyCard from './components/PropertyCard.jsx'
-import HowItWorks from './components/HowItWorks.jsx'
-import PropertyList from './components/PropertyList.jsx'
-import FAQ from './components/FAQ.jsx'
-import Contact from './components/Contact.jsx'
-import Footer from './components/Footer.jsx'
+import Hero from './components/Hero'
+import About from './components/About'
+import PropertyCard from './components/PropertyCard'
+import HowItWorks from './components/HowItWorks'
+import PropertyList from './components/PropertyList'
+import FAQ from './components/FAQ'
+import Contact from './components/Contact'
+import Footer from './components/Footer'
 
 function App() {
   return (
