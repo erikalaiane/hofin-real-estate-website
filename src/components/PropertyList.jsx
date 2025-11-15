@@ -1,5 +1,5 @@
 import { Heart, ChevronLeft, ChevronRight } from 'lucide-react'
-import { properties } from '../../data/properties'
+import { properties } from '../data/properties'
 
 const PropertyList = ({ title, category }) => {
   const propertyList = properties[category] || []
