@@ -48,7 +48,7 @@ Website responsivo para compra, venda e aluguel de propriedades
 
 <div align="center">
 
-![Preview](./public/images/preview.png)
+![Preview](./public/site.png)
 
 </div>
 
